@@ -407,7 +407,4 @@ article .icon {
 .email-icon {
   height: 2.5rem;
 }
-@media only screen and (min-width: 767px) {
-  #experience{
-    margin-bottom:250px;
-}
+
