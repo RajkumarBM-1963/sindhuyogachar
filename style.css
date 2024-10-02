@@ -317,7 +317,7 @@ section {
 /* EXPERIENCE SECTION */
 
 #experience {
-  position: fixed;
+  position: relative;
   margin-bottom: 25px;
 }
 
@@ -368,10 +368,11 @@ article .icon {
 /* CONTACT */
 
 #contact {
+  padding-top:200px;
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 40vh;
+  height: 70vh;
   
 }
 
