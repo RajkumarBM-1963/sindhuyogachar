@@ -317,7 +317,7 @@ section {
 /* EXPERIENCE SECTION */
 
 #experience {
-  position: relative;
+  position: fixed;
   margin-bottom: 25px;
 }
 
