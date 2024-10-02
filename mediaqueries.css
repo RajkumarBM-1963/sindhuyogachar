@@ -46,6 +46,10 @@
     margin-top: 0;
   }
 }
+@media only screen and (min-width: 767px) {
+  #experience{
+    margin-bottom:250px;
+}
 
 @media screen and (max-width: 600px) {
   #contact,
